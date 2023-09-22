@@ -22,7 +22,7 @@ public class Main {
     public static class B extends A{
 
         public static String meth() {
-            return "Method is overridden in Extended class B";
+            return "Method is overridden in Extendend class B";
         }
 
     }
